@@ -54,6 +54,9 @@ https://class.coursera.org/getdata-015
 			Split data frame by new factor to a list.
 			
 		*3.3	Get mean for each variable
+		
+		*3.4	Drop useless columns
+				Some columns is useless in final data frame, remove them.
 	
 		*3.4	Wrtie to txt
 			Wrtie to data file.
